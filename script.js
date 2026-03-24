@@ -1,4 +1,3 @@
-// Theme toggle
 (function () {
   const toggle = document.getElementById('theme-toggle');
   const prefersDark = window.matchMedia('(prefers-color-scheme: dark)');
